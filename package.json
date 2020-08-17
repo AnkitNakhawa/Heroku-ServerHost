@@ -1,0 +1,19 @@
+{
+  "name": "messenger-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnkitNakhawa/Heroku-ServerHost.git"
+  },
+  "author": "Ankit Nakhawa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnkitNakhawa/Heroku-ServerHost/issues"
+  },
+  "homepage": "https://github.com/AnkitNakhawa/Heroku-ServerHost#readme"
+}

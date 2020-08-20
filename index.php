@@ -5,6 +5,6 @@ if(isset($_REQUEST['hub_challenge'])) {
 	$token = $_REQUEST['hub_verify_token'];
 }
 
-if($token == "MyCustomToken123"){
+if($token == "CustomTokenjkl1467l1hg"){
 	echo $challenge
 }

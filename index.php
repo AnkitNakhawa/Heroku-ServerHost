@@ -8,3 +8,5 @@ if(isset($_REQUEST['hub_challenge'])) {
 if($token == "CustomTokenjkl1467l1hg"){
 	echo $challenge
 }
+
+?>
